@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+	<title>Home - Skinner Technology Archive</title>
+	<link rel="shortcut icon" type="image/jpg" href="IMAGES\FAVICON.PNG"/>
+	<style>
+		body {
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		a:link {
+		  color: #45C0EC;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:visited {
+		  color: #45C0EC;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:hover {
+		  color: #4AB7FF;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:active {
+		  color: #4AB7FF;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+		
+		{
+		  box-sizing: border-box;
+		}
+
+		input[type=text], select, textarea {
+		  width: 50%;
+		  padding: 12px;
+		  border: 1px solid #ccc;
+		  margin-top: 6px;
+		  margin-bottom: 16px;
+		  resize: vertical;
+		}
+
+		input[type=submit] {
+		  background-color: #45C0EC;
+		  color: white;
+		  padding: 12px 20px;
+		  border: none;
+		  cursor: pointer;
+		}
+
+		input[type=submit]:hover {
+		  background-color: #4AB7FF;
+		}
+
+		.container {
+		  border-radius: 5px;
+		  background-color: #f2f2f2;
+		  padding: 10px;
+		}
+
+		.row:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+	</style>
+	<head>
+		<h2>
+			Skinner Technology Archive<br />
+			<small>
+				<em style="color:#45C0EC">An archive of the past in the future.</em>
+			</small>
+		</h2>
+		<p>
+			<a href="INDEX.HTML">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="ARCHIVE.HTML">Archive</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="UTILITIES.HTML">Utilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="ABOUT.HTML">About</a>
+		</p>
+	</head>
+	<body>
+		<p>If you’re having difficulties using our website or software, please visit 
+			<a href="https://discord.gg/FsaME8x">Discord</a>.
+		</p>
+		<p>Alternatively, send an email to
+			<a href="mailto:neo.ski@outlook.com">neo.ski@outlook.com</a>
+		or use the form below and we’ll get back to you as soon as possible.</p>
+		<form method="post" name="ContactForm" action="FORM_PROCESSOR.PHP">
+			<label for="fname"><b>First Name</b></label><br />
+			<input type="text" id="fname" name="firstname" placeholder="Your name.."><br />
+			<label for="lname"><b>Last Name</b></label><br />
+			<input type="text" id="lname" name="lastname" placeholder="Your last name.."><br />
+			<label for="subject"><b>Message</b></label><br />
+			<textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea><br />
+			<input type="submit" value="Submit">
+		</form>
+	</body>
+</html>
+
+<!-- Website Version 1.0 -->
