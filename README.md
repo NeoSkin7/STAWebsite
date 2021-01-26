@@ -12,7 +12,3 @@ To access the site, simply run `INDEX.HTML`.
 * [1.1 (Release Version 1.1)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.1/)
 * [1.01 (Initial Release Bug Fixes)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.01/)
 * [1.0 (Initial Release)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.0/)
-
-## Contributors
-
-* [@D-Plex](https://github.com/D-Plex)
