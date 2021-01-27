@@ -8,7 +8,6 @@
 				url('OSWALD.WOFF') format('woff');
 			font-weight: 400;
 			font-style: normal;
-			font-display: swap;
 		} 
 		
 		@font-face {
@@ -47,6 +46,18 @@
 		  font-family: OpenSans;
 		}
 		
+		body {
+		  background-color: #000000;
+		  color: #ffffff;
+		}
+		
+		@media screen and (prefers-color-scheme: light) {
+		  body {
+			background-color: #000000;
+			color: #ffffff;
+		  }
+		}
+		
 		a:link {
 		  color: #45C0EC;
 		  background-color: transparent;
@@ -76,7 +87,9 @@
 		}
 
 		input[type=text], select, textarea {
-		  width: 50%;
+		  background-color: #292A2B;
+		  color: white;
+		  width: 90%;
 		  padding: 12px;
 		  border: 1px solid #ccc;
 		  margin-top: 6px;
@@ -97,8 +110,9 @@
 		}
 
 		.container {
+		  width: 50%;
 		  border-radius: 5px;
-		  background-color: #f2f2f2;
+		  background-color: #2F2F2F;
 		  padding: 10px;
 		}
 
@@ -141,14 +155,14 @@
 		<p>Alternatively, send an email to
 			<a href="mailto:neo.ski@outlook.com">neo.ski@outlook.com</a>
 		or use the form below and we’ll get back to you as soon as possible.</p>
-		<form method="post" name="ContactForm" action="FORM_PROCESSOR.PHP">
-			<label for="fname"><b>First Name</b></label><br />
-			<input type="text" id="fname" name="firstname" placeholder="Your name.."><br />
-			<label for="lname"><b>Last Name</b></label><br />
-			<input type="text" id="lname" name="lastname" placeholder="Your last name.."><br />
-			<label for="subject"><b>Message</b></label><br />
-			<textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea><br />
-			<input type="submit" value="Submit">
+		<form method="post" name="ContactForm" action="FORM_PROCESSOR.PHP" class="container">
+			<label for="fname"><b>FIRST NAME</b></label><br />
+			<input type="text" id="fname" name="firstname" placeholder="Your name.." required><br />
+			<label for="lname"><b>LAST NAME</b></label><br />
+			<input type="text" id="lname" name="lastname" placeholder="Your last name.." required><br />
+			<label for="subject"><b>MESSAGE</b></label><br />
+			<textarea id="subject" name="subject" placeholder="Write something.." style="height:170px" required></textarea><br />
+			<input type="submit" value="SUBMIT">
 		</form>
 		<br />
 		<footer>

@@ -8,7 +8,6 @@
 				url('../OSWALD.WOFF') format('woff');
 			font-weight: 400;
 			font-style: normal;
-			font-display: swap;
 		} 
 		
 		@font-face {
@@ -45,6 +44,18 @@
 		
 		body {
 		  font-family: OpenSans;
+		}
+		
+		body {
+		  background-color: #000000;
+		  color: #ffffff;
+		}
+		
+		@media screen and (prefers-color-scheme: light) {
+		  body {
+			background-color: #000000;
+			color: #ffffff;
+		  }
 		}
 		
 		a:link {
