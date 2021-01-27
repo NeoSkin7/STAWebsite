@@ -2,8 +2,49 @@
 	<title>Archive - MS-DOS 1.x - Skinner Technology Archive</title>
 	<link rel="shortcut icon" type="image/jpg" href="..\IMAGES\FAVICON.PNG"/>
 	<style>
+		@font-face {
+			font-family: 'Oswald';
+			src: url('../OSWALD.WOFF2') format('woff2'),
+				url('../OSWALD.WOFF') format('woff');
+			font-weight: 400;
+			font-style: normal;
+			font-display: swap;
+		} 
+		
+		@font-face {
+			font-family: 'OpenSans';
+			src: url('../OPENSANS.WOFF2') format('woff2'),
+				 url('../OPENSANS.WOFF') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		}
+		
+		h1 {
+		  font-family: Oswald;
+		}
+		
+		h2 {
+		  font-family: Oswald;
+		}
+		
+		h3 {
+		  font-family: Oswald;
+		}
+		
+		h4 {
+		  font-family: Oswald;
+		}
+		
+		h5 {
+		  font-family: Oswald;
+		}
+		
+		h6 {
+		  font-family: Oswald;
+		}
+		
 		body {
-		  font-family: Arial, Helvetica, sans-serif;
+		  font-family: OpenSans;
 		}
 		
 		a:link {
@@ -32,30 +73,51 @@
 	</style>
 	<head>
 		<h2>
-			Skinner Technology Archive<br />
-			<small>
-				<em style="color:#45C0EC">An archive of the past in the future.</em>
-			</small>
+			<div style="display:inline-block;vertical-align:top;">
+				<img src="..\IMAGES\FAVICON.PNG" alt="Logo" width="75">
+			</div>
+			<div style="display:inline-block;">
+					<div>SKINNER TECHNOLOGY ARCHIVE</div>
+					<div>
+						<small>
+							<em style="color:#45C0EC">AN ARCHIVE OF THE PAST IN THE FUTURE.</em>
+						</small>
+					</div>
+			</div>
 		</h2>
 		<nav>
-			<a href="ARCHIVE.HTML">Archive</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="UTILITIES.HTML">Utilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="CONTACT.HTML">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="ABOUT.HTML">About</a>
+			<h4>
+				<p>
+					<a href="..\INDEX.HTML">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					ARCHIVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="..\UTILITIES.HTML">UTILITIES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="..\CONTACT.HTML">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="..\ABOUT.HTML">ABOUT</a>
+				</p>
+			</h4>
 		</nav>
 	</head>
 	<body>
 		<nav>
-			<br /><a href="..\ARCHIVE.HTML"><-- Back</a>
+			<h5><a href="..\ARCHIVE.HTML"><-- BACK</a></h5>
 		</nav>
-		<h4 id="wiki">WIKI</h4>
+		<h3 id="wiki">WIKI</h3>
 		<p>MS-DOS is an acronym for Microsoft Disk Operating System.</p>
 		<p>MS-DOS version 1.23 was first version officially released for a small number of OEM’s (Original Equipment Manufacturers) in Febuary of 1982 after the purchase of 86-DOS by Microsoft on the 27th of July 1981 (originally produced by Seattle Computer Products). However, according to MS-DOS 2.11 Source code, There are versions dating back to MS-DOS 1.11 which are unreleased internal versions of the Operating System. The next version released was 1.24 in Mach of 1982, this was released to IBM and renamed to IBM® Personal Computer™ DOS 1.10, it supported bot Single (160 KB) and double (320 KB) sided 5.25 inch floppy disks (known colloquially as 5 and a quarter inch floppies) and support was not yet included for sub-directories (all files must be located in the root directory) as a result of this, the backward (<code>\</code>) and forward (<code>/</code>) slash symbols can be used in file names amongst others. The next release was version 1.25 which was released to other OEM’s than just IBM in the August of 1982 and had only one minor change over 1.24 which was that the <code>00</code> marker was placed at the end of directories to speed up searching. The next edition of MS-DOS was 2.x which was released in March of 1983 after 12 (confirmed) unreleased development builds.</p>
-		<h4 id="builds">BUILDS</h4>
-		<h6>(The below build versions are in relation to COMPAQ-DOS)</h6>
+		<h3 id="builds">BUILDS</h3>
+		<p><small>(The below build versions are in relation to COMPAQ-DOS)</small></p>
 		<a href="MSDOS1\110B.HTML">1.10 B</a><br />
 		<a href="MSDOS1\111.HTML">1.11</a><br />
 		<a href="MSDOS1\112.HTML">1.12</a><br />
+		<br />
+		<footer>
+			<a href="https://discord.gg/A9nBvP">
+			  <img src="..\IMAGES\DISCORD.PNG" alt="Discord" width="30">
+			</a>
+			<a href="https://twitch.tv/SkinnerTechnologyArchive">
+			  <img src="..\IMAGES\TWITCH.PNG" alt="Twitch" width="23">
+			</a>
+		</footer>
 	</body>
 </html>
 
