@@ -1,0 +1,171 @@
+		@font-face {
+			font-family: 'Oswald';
+			src: url('OSWALD.WOFF2') format('woff2'),
+				url('OSWALD.WOFF') format('woff');
+			font-weight: 400;
+			font-style: normal;
+		} 
+		
+		@font-face {
+			font-family: 'OpenSans';
+			src: url('OPENSANS.WOFF2') format('woff2'),
+				 url('OPENSANS.WOFF') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		}
+		
+		h1 {
+		  font-family: Oswald;
+		}
+		
+		h2 {
+		  font-family: Oswald;
+		}
+		
+		h3 {
+		  font-family: Oswald;
+		}
+		
+		h4 {
+		  font-family: Oswald;
+		}
+		
+		h5 {
+		  font-family: Oswald;
+		}
+		
+		h6 {
+		  font-family: Oswald;
+		}
+		
+		body {
+		  font-family: OpenSans;
+		}
+		
+		body {
+		  background-color: #000000;
+		  color: #ffffff;
+		}
+
+		@media screen and (prefers-color-scheme: light) {
+		  body {
+		  background-color: #000000;
+		  color: #ffffff;
+		}
+
+		body {
+		  font-family: OpenSans;
+		}
+		
+		a:link {
+		  color: #45C0EC;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:visited {
+		  color: #45C0EC;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:hover {
+		  color: #4AB7FF;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:active {
+		  color: #4AB7FF;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+		
+		.column {
+			float: left;
+			width: 16%;
+		}
+
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+		
+		.styled-table {
+			border-collapse: collapse;
+			margin: 25px 0;
+			font-size: 0.9em;
+			font-family: sans-serif;
+			min-width: 600px;
+		}
+		
+		.styled-table thead tr {
+			background-color: #45C0EC;
+			color: #ffffff;
+			text-align: center;
+		}
+		
+		.styled-table th,
+		.styled-table td {
+			padding: 12px 15px;
+		}
+		
+		.styled-table tbody tr {
+			border-bottom: 1px solid #dddddd;
+		}
+
+		.styled-table tbody tr:nth-of-type(even) {
+			background-color: #f3f3f3;
+		}
+
+		.styled-table tbody tr:last-of-type {
+			border-bottom: 2px solid #45C0EC;
+		}
+		
+		.styled-table tbody tr.active-row {
+			font-weight: bold;
+			color: #ffffff;
+		}
+	
+		{
+		  box-sizing: border-box;
+		}
+
+		input[type=text], select, textarea {
+		  background-color: #292A2B;
+		  color: white;
+		  width: 90%;
+		  padding: 12px;
+		  border: 1px solid #ccc;
+		  margin-top: 6px;
+		  margin-bottom: 16px;
+		  resize: vertical;
+		}
+
+		input[type=submit] {
+		  background-color: #45C0EC;
+		  color: white;
+		  padding: 12px 20px;
+		  border: none;
+		  cursor: pointer;
+		}
+
+		input[type=submit]:hover {
+		  background-color: #4AB7FF;
+		}
+
+		.container {
+		  width: 50%;
+		  border-radius: 5px;
+		  background-color: #2F2F2F;
+		  padding: 10px;
+		}
+
+		.row:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+		
+/* Website Version 1.4 */
