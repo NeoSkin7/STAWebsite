@@ -1,3 +1,6 @@
+{% raw %}
+<button onclick="window.open('https://github.com/NeoSkin7/STAWebsite/files/5892884/STA_WEBSITE_VER_1.41.ZIP')">Download</button>
+{% endraw %}
 # Welcome to The Skinner Technology Archive New Website Preview!
 
 You can download the latest site version _[here](https://github.com/NeoSkin7/STAWebsite/releases/)_.
