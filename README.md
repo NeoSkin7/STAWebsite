@@ -1,7 +1,8 @@
 # Welcome to The Skinner Technology Archive New Website Preview!
 
 You can download the latest site version _[here](https://github.com/NeoSkin7/STAWebsite/releases/)_.
-Or view a live preview [here](https://stawebsite.000webhostapp.com/INDEX.HTML)
+
+Or view a live preview _[here](https://stawebsite.000webhostapp.com/INDEX.HTML)_.
 
 ## How to Use (Downloaded Version)
 
