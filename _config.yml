@@ -1,14 +1,9 @@
-# Site wide configuration
-
 title: STAWebsite
 locale: en_US
 logo: FAVICON.PNG
-
-# Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Neo Skinnner
   avatar: PROFILE PICTURE.JPG
   email: neo.ski@outlook.com
   github: NeoSkin7
-    
 theme: jekyll-theme-cayman
