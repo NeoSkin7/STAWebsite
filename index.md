@@ -9,6 +9,7 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Versions
 
+* [1.41 (Release Version 1.41)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.41/)
 * [1.4 (Release Version 1.4)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.4/)
 * [1.31 (Release Version 1.31)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.31/)
 * [1.3 (Release Version 1.3)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.3/)
