@@ -55,6 +55,6 @@
 		echo "Bad email value submitted.";
 		exit;	
 	}
+	
+	/* Website Version 1.43 */
 ?>
-
-/* Website Version 1.42 */
