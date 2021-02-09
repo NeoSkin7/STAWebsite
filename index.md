@@ -11,7 +11,8 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Versions
 
-* [1.43 (Release Version 1.43)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.43/) _**LATEST**_
+* [1.431 (Release Version 1.431)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.431/) _**LATEST**_
+* [1.43 (Release Version 1.43)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.43/)
 * [1.42 (Release Version 1.42)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.42/)
 * [1.41 (Release Version 1.41)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.41/)
 * [1.4 (Release Version 1.4)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.4/)
