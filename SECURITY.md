@@ -4,6 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.5     | :white_check_mark: |
+| 1.431   | :white_check_mark: |
 | 1.43    | :white_check_mark: |
 | 1.42    | :white_check_mark: |
 | 1.41    | :white_check_mark: |
@@ -12,4 +14,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vunerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
+To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
