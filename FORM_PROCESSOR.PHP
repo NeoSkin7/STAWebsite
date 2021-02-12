@@ -56,5 +56,5 @@
 		exit;	
 	}
 	
-	/* Website Version 1.431 */
+	/* Website Version 1.5 */
 ?>

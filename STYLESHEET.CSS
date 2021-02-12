@@ -45,13 +45,6 @@
 			color: #ffffff;
 		}
 
-		@media (prefers-color-scheme: dark) {
-			body {
-				background-color: #000000;
-				color: #ffffff;
-			}
-		}
-
 		body {
 			font-family: OpenSans;
 		}
@@ -96,34 +89,51 @@
 			margin: 25px 0;
 			font-size: 0.9em;
 			font-family: sans-serif;
+			text-align: center;
 			min-width: 600px;
+			vertical-align: middle;
 		}
 
 		.styled-table thead tr {
 			background-color: #45C0EC;
 			color: #ffffff;
 			text-align: center;
+			vertical-align: middle;
 		}
 
 		.styled-table th, .styled-table td {
 			padding: 12px 15px;
+			text-align: center;
+			vertical-align: middle;
 		}
 
 		.styled-table tbody tr {
 			border-bottom: 1px solid #dddddd;
+			text-align: center;
+			vertical-align: middle;
 		}
 
 		.styled-table tbody tr:nth-of-type(even) {
 			background-color: #f3f3f3;
+			text-align: center;
+			vertical-align: middle;
 		}
 
 		.styled-table tbody tr:last-of-type {
 			border-bottom: 2px solid #45C0EC;
+			text-align: center;
+			vertical-align: middle;
 		}
 
 		.styled-table tbody tr.active-row {
 			font-weight: bold;
 			color: #ffffff;
+			text-align: center;
+			vertical-align: middle;
+		}
+
+		.ltext {
+			text-align: left !important;
 		}
 
 		.border-box {
@@ -166,4 +176,4 @@
 			clear: both;
 		}
 
-		/* Website Version 1.431 */
+		/* Website Version 1.5 */
