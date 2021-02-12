@@ -33,12 +33,12 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.5 (CURRENT)    | :white_check_mark: |
-| 1.43             | :white_check_mark: |
-| 1.42             | :white_check_mark: |
-| 1.41             | :white_check_mark: |
-| 1.4              | :white_check_mark: |
-| < 1.31           | :x:                |
+| 1.5 (CURRENT)    | Yes                |
+| 1.43             | Yes                |
+| 1.42             | Yes                |
+| 1.41             | Yes                |
+| 1.4              | Yes                |
+| < 1.31           | No                 |
 
 ### Reporting a Vulnerability
 
