@@ -12,4 +12,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vunerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly
+To report a vunerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
