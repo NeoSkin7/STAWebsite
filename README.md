@@ -42,7 +42,7 @@ To report a vlunerability please email [neo.ski@outlook.com](mailto:neo.ski@outl
 
 ## Contributors
 
-## Current Contributors
+### Current Contributors
 
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
