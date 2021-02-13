@@ -46,7 +46,7 @@ To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outl
 
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
-* [seal331](https://github.com/seal331)
+* [@seal331](https://github.com/seal331)
 * Toxidation (Discord)
 
 ### How to Become a Contributor
