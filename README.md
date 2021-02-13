@@ -7,9 +7,9 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* New pages added: Windows 1.x (HUB + SUBPAGES), Windows 2.x (HUB), Windows 3.x (HUB), Windows NT 3.x (HUB)
-* New class added: ltext (Creates left aligned text - for use with tables)
-* EASTER EGGS ADDED!
+* Image styles edited (img tag in stylesheet)
+* Class added: header (For managing header content)
+* PHP injection checker edited
 
 ## Known Issues
 
@@ -19,7 +19,6 @@ To access the site, simply run `INDEX.HTML`.
 ## To-do
 
 * Fix PHP Script
-* Add class for middle aligned images (mpic)
 * Add wiki articles for new pages
 * Add more pages (OBVIOUSLY!)
 
@@ -29,7 +28,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.5 (CURRENT)    | :white_check_mark: |
+| 1.51 (CURRENT)   | :white_check_mark: |
+| 1.5              | :white_check_mark: |
 | 1.43             | :white_check_mark: |
 | 1.42             | :white_check_mark: |
 | 1.41             | :white_check_mark: |
@@ -38,11 +38,11 @@ To access the site, simply run `INDEX.HTML`.
 
 ### Reporting a Vulnerability
 
-To report a vlunerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
+To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
 
 ## Contributors
 
-### Current Contributors
+## Current Contributors
 
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
