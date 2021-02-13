@@ -22,11 +22,8 @@
 	$to = "neo.ski@outlook.com";
 	$headers = "From: $email_from \r\n";
 	$headers .= "Reply-To: $visitor_email \r\n";
-	
-	mail($to,$email_subject,$email_body,$headers);
-	header('Location: CONTACT_SUCCESSFUL.HTML');
-	
-		function IsInjected($str)
+
+	function IsInjected($str)
 	{
 		$injections = array('(\n+)',
 			   '(\r+)',
@@ -56,5 +53,8 @@
 		exit;	
 	}
 	
-	/* Website Version 1.5 */
+	mail($to,$email_subject,$email_body,$headers);
+	header('Location: CONTACT_SUCCESSFUL.HTML');
+	
+	/* Website Version 1.51 */
 ?>
