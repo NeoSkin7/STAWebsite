@@ -11,9 +11,9 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* New pages added: Windows 1.x (HUB + SUBPAGES), Windows 2.x (HUB), Windows 3.x (HUB), Windows NT 3.x (HUB)
-* New class added: ltext (Creates left aligned text - for use with tables)
-* EASTER EGGS ADDED!
+* Image styles edited (img tag in stylesheet)
+* Class added: header (For managing header content)
+* PHP injection checker edited
 
 ## Known Issues
 
@@ -23,7 +23,6 @@ To access the site, simply run `INDEX.HTML`.
 ## To-do
 
 * Fix PHP Script
-* Add class for middle aligned images (mpic)
 * Add wiki articles for new pages
 * Add more pages (OBVIOUSLY!)
 
@@ -33,41 +32,27 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.5 (CURRENT)    | Yes                |
-| 1.43             | Yes                |
-| 1.42             | Yes                |
-| 1.41             | Yes                |
-| 1.4              | Yes                |
-| < 1.31           | No                 |
+| 1.51 (CURRENT)   | :white_check_mark: |
+| 1.5              | :white_check_mark: |
+| 1.43             | :white_check_mark: |
+| 1.42             | :white_check_mark: |
+| 1.41             | :white_check_mark: |
+| 1.4              | :white_check_mark: |
+| < 1.31           | :x:                |
 
 ### Reporting a Vulnerability
 
-To report a vlunerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
+To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
 
 ## Contributors
 
-### Current Contributors
+## Current Contributors
 
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
+* [@seal331](https://github.com/seal331)
 * Toxidation (Discord)
-* vlad557776 (Discord)
 
 ### How to Become a Contributor
 
 To become a contributor, please contact NeoSki by [email](mailto:neo.ski@outlook.com) or Discord.
-
-## Older Versions
-
-* [1.5 (Release Version 1.5)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.5/) _**LATEST**_
-* [1.431 (Release Version 1.431)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.431/)
-* [1.43 (Release Version 1.43)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.43/)
-* [1.42 (Release Version 1.42)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.42/)
-* [1.41 (Release Version 1.41)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.41/)
-* [1.4 (Release Version 1.4)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.4/)
-* [1.31 (Release Version 1.31)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.31/)
-* [1.3 (Release Version 1.3)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.3/)
-* [1.2 (Release Version 1.2)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.2/)
-* [1.1 (Release Version 1.1)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.1/)
-* [1.01 (Initial Release Bug Fixes)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.01/)
-* [1.0 (Initial Release)](https://github.com/NeoSkin7/STAWebsite/releases/tag/1.0/)
