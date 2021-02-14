@@ -9,6 +9,7 @@ To access the site, simply run `INDEX.HTML`.
 
 * Any Brower Campaign image updated
 * Table styles changed (See styled-table class in stylesheet)
+* Pages added: WIN1 (SUBPAGES)
 
 ## Known Issues
 
@@ -27,7 +28,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.51 (CURRENT)   | :white_check_mark: |
+| 1.52 (CURRENT)   | :white_check_mark: |
+| 1.51             | :white_check_mark: |
 | 1.5              | :white_check_mark: |
 | 1.43             | :white_check_mark: |
 | 1.42             | :white_check_mark: |
