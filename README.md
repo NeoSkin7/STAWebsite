@@ -7,9 +7,8 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* Image styles edited (img tag in stylesheet)
-* Class added: header (For managing header content)
-* PHP injection checker edited
+* Any Brower Campaign image updated
+* Table styles changed (See styled-table class in stylesheet)
 
 ## Known Issues
 
