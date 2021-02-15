@@ -116,6 +116,10 @@
 			width: 16%;
 		}
 
+		.warning {
+			color: #FF0000 !important;
+		}
+
 		.row:after {
 			content: "";
 			display: table;
