@@ -9,7 +9,7 @@ To access the site, simply run `INDEX.HTML`.
 
 * New articles added
 * New classes added: warning, badge, fileicon
-* New tag adopted: <article>
+* New tag adopted: &ltarticle&gt
 * MORE EASTER EGGS ADDED!!
 
 ## Known Issues
