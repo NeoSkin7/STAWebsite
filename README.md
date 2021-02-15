@@ -7,7 +7,7 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* Any Brower Campaign image updated
+* Any Browser Campaign image updated
 * Table styles changed (See styled-table class in stylesheet)
 * Pages added: WIN1 (SUBPAGES)
 
