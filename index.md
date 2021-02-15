@@ -11,9 +11,10 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* Any Brower Campaign image updated
-* Table styles changed (See styled-table class in stylesheet)
-* Pages added: WIN1 (SUBPAGES)
+* New articles added
+* New classes added: warning, badge, fileicon
+* New tag adopted: <article>
+* MORE EASTER EGGS ADDED!!
 
 ## Known Issues
 
@@ -32,7 +33,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.52 (CURRENT)   | Yes                |
+| 1.53 (CURRENT)   | Yes                |
+| 1.52             | Yes                |
 | 1.51             | Yes                |
 | 1.5              | Yes                |
 | 1.4x             | Yes                |
@@ -49,6 +51,7 @@ To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outl
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
 * [@seal331](https://github.com/seal331)
+* [@thenxguy](https://github.com/thenxguy)
 * Toxidation (Discord)
 
 ### How to Become a Contributor
