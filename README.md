@@ -8,9 +8,8 @@ To access the site, simply run `INDEX.HTML`.
 ## Changelog
 
 * New articles added
-* New classes added: warning, badge, fileicon
-* New tag adopted: &lt;article&gt;
-* MORE EASTER EGGS ADDED!!
+* New pages added: WIN2 (SUB), WIN3 (SUB), OFFICE2 (HUB+SUB), OFFICE3 (HUB+SUB)
+* Website comments more consistent (All contributors added)
 
 ## Known Issues
 
@@ -29,7 +28,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.53 (CURRENT)   | :white_check_mark: |
+| 1.54 (CURRENT)   | :white_check_mark: |
+| 1.53             | :white_check_mark: |
 | 1.52             | :white_check_mark: |
 | 1.51             | :white_check_mark: |
 | 1.5              | :white_check_mark: |
