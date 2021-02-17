@@ -12,9 +12,8 @@ To access the site, simply run `INDEX.HTML`.
 ## Changelog
 
 * New articles added
-* New classes added: warning, badge, fileicon
-* New tag adopted: <article>
-* MORE EASTER EGGS ADDED!!
+* New pages added: WIN2 (SUB), WIN3 (SUB), OFFICE2 (HUB+SUB), OFFICE3 (HUB+SUB)
+* Website comments more consistent (All contributors added)
 
 ## Known Issues
 
@@ -33,7 +32,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.53 (CURRENT)   | Yes                |
+| 1.54 (CURRENT)   | Yes                |
+| 1.53             | Yes                |
 | 1.52             | Yes                |
 | 1.51             | Yes                |
 | 1.5              | Yes                |
