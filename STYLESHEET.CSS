@@ -12,27 +12,7 @@
 			font-style: normal;
 		}
 
-		h1 {
-			font-family: Oswald;
-		}
-
-		h2 {
-			font-family: Oswald;
-		}
-
-		h3 {
-			font-family: Oswald;
-		}
-
-		h4 {
-			font-family: Oswald;
-		}
-
-		h5 {
-			font-family: Oswald;
-		}
-
-		h6 {
+		h1, h2, h3, h4, h5, h6 {
 			font-family: Oswald;
 		}
 
@@ -227,4 +207,4 @@
 			clear: both;
 		}
 
-		/* Website Version 1.53 */
+		/* Website Version 1.54 - NEOSKI */
