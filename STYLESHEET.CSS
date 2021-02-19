@@ -96,14 +96,14 @@
 			width: 16%;
 		}
 
-		.warning {
-			color: #FF0000 !important;
-		}
-
 		.row:after {
 			content: "";
 			display: table;
 			clear: both;
+		}
+
+		.warning {
+			color: #FF0000 !important;
 		}
 
 		.styled-table {
@@ -201,10 +201,4 @@
 			padding: 10px;
 		}
 
-		.row:after {
-			content: "";
-			display: table;
-			clear: both;
-		}
-
-		/* Website Version 1.54 - NEOSKI */
+		/* Website Version 1.6 - NEOSKI */

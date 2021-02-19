@@ -56,5 +56,5 @@
 	mail($to,$email_subject,$email_body,$headers);
 	header('Location: CONTACT_SUCCESSFUL.HTML');
 	
-	/* Website Version 1.54 - NEOSKI */
+	/* Website Version 1.6 - NEOSKI */
 ?>
