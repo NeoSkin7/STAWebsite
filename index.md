@@ -12,8 +12,9 @@ To access the site, simply run `INDEX.HTML`.
 ## Changelog
 
 * New articles added
-* New pages added: WIN2 (SUB), WIN3 (SUB), OFFICE2 (HUB+SUB), OFFICE3 (HUB+SUB)
-* Website comments more consistent (All contributors added)
+* New pages added: WIN3 (SUB), WORKS1 (HUB+SUB), BOB (HUB+SUB), PLUS95 (HUB + SUB)
+* Code cleaned up (&lt;br /&gt; changed to &lt;br&gt;, &lt;img /&gt; changed to &lt;img&gt;)
+* EASTER EGGS ADDED!
 
 ## Known Issues
 
@@ -32,13 +33,9 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.54 (CURRENT)   | Yes                |
-| 1.53             | Yes                |
-| 1.52             | Yes                |
-| 1.51             | Yes                |
-| 1.5              | Yes                |
-| 1.4x             | Yes                |
-| < 1.3x           | No                 |
+| 1.6  (CURRENT)   | Yes                |
+| 1.5x             | Yes                |
+| < 1.4x           | No                 |
 
 ### Reporting a Vulnerability
 
