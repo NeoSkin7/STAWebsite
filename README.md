@@ -8,8 +8,9 @@ To access the site, simply run `INDEX.HTML`.
 ## Changelog
 
 * New articles added
-* New pages added: WIN2 (SUB), WIN3 (SUB), OFFICE2 (HUB+SUB), OFFICE3 (HUB+SUB)
-* Website comments more consistent (All contributors added)
+* New pages added: WIN3 (SUB), WORKS1 (HUB+SUB), BOB (HUB+SUB), PLUS95 (HUB + SUB)
+* Code cleaned up (&lt;br /&gt; changed to &lt;br&gt;, &lt;img /&gt; changed to &lt;img&gt;)
+* EASTER EGGS ADDED!
 
 ## Known Issues
 
@@ -28,19 +29,14 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.54 (CURRENT)   | :white_check_mark: |
-| 1.53             | :white_check_mark: |
-| 1.52             | :white_check_mark: |
-| 1.51             | :white_check_mark: |
-| 1.5              | :white_check_mark: |
-| 1.4x             | :white_check_mark: |
-| < 1.3x           | :x:                |
+| 1.6  (CURRENT)   | :white_check_mark: |
+| 1.5x             | :white_check_mark: |
+| < 1.4x           | :x:                |
 
 ### Reporting a Vulnerability
 
 To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
 
-## Contributors
 
 ## Current Contributors
 
