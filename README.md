@@ -47,3 +47,7 @@ To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outl
 ### How to Become a Contributor
 
 To become a contributor, please contact NeoSki by [email](mailto:neo.ski@outlook.com) or Discord.
+
+## Notice
+
+We are aware that recent progress on this project has slowed, this is due to ongoing FTP work.
