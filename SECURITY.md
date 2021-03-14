@@ -4,7 +4,8 @@
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.6 (CURRENT)    | :white_check_mark: |
+| 1.61  (CURRENT)  | :white_check_mark: |
+| 1.6              | :white_check_mark: |
 | 1.5x             | :white_check_mark: |
 | < 1.4x           | :x:                |
 
