@@ -11,10 +11,8 @@ To access the site, simply run `INDEX.HTML`.
 
 ## Changelog
 
-* New articles added
-* New pages added: WIN3 (SUB), WORKS1 (HUB+SUB), BOB (HUB+SUB), PLUS95 (HUB + SUB)
-* Code cleaned up (&lt;br /&gt; changed to &lt;br&gt;, &lt;img /&gt; changed to &lt;img&gt;)
-* EASTER EGGS ADDED!
+* CSS Cleanup: Most inline CSS removed and some classes removed
+* PHP Script Fixed
 
 ## Known Issues
 
@@ -23,7 +21,6 @@ To access the site, simply run `INDEX.HTML`.
 
 ## To-do
 
-* Fix PHP Script
 * Add wiki articles for new pages
 * Add more pages (OBVIOUSLY!)
 
@@ -33,7 +30,8 @@ To access the site, simply run `INDEX.HTML`.
 
 | Version          | Supported          |
 | ---------------- | ------------------ |
-| 1.6  (CURRENT)   | Yes                |
+| 1.61  (CURRENT)  | Yes                |
+| 1.6              | Yes                |
 | 1.5x             | Yes                |
 | < 1.4x           | No                 |
 
