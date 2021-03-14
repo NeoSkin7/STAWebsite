@@ -3,15 +3,9 @@
 	{
 		echo "Error, this page should not be directly accessed";
 	}
-	$name = $_POST['name'];
+	$name = $_POST['fname' . ' ' . 'lname'];
 	$visitor_email = $_POST['email'];
 	$message = $_POST['message'];
-	
-	if(empty($name)||empty($visitor_email)||empty($message))
-	{
-		echo "You must fully complete the form.";
-		exit;
-	}
 	
 	$email_from = 'skinnerfamilyinc.outlook.com';
 	$email_subject = "New message received";

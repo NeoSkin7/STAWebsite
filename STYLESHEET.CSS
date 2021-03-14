@@ -12,8 +12,17 @@
 			font-style: normal;
 		}
 
+		:root {
+			--accent: #45C0EC;
+			--accent-alt: #4AB7FF;
+		}
+
 		h1, h2, h3, h4, h5, h6 {
 			font-family: Oswald;
+		}
+
+		h2 em {
+			color: var(--accent);
 		}
 
 		body {
@@ -23,25 +32,25 @@
 		}
 
 		a:link {
-			color: #45C0EC;
+			color: var(--accent);
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:visited {
-			color: #45C0EC;
+			color: var(--accent);
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:hover {
-			color: #4AB7FF;
+			color: var(--accent-alt);
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:active {
-			color: #4AB7FF;
+			color: var(--accent-alt);
 			background-color: transparent;
 			text-decoration: none;
 		}
@@ -86,7 +95,7 @@
 			background-color: #666;
 		}
 
-		.header {
+		header {
 			display: inline-block;
 			vertical-align: top;
 		}
@@ -106,44 +115,44 @@
 			color: #FF0000 !important;
 		}
 
-		.styled-table {
+		table {
 			border-collapse: collapse;
 			margin: 25px 0;
 			text-align: center;
 			min-width: 600px;
+			font-family: OpenSans;
 			vertical-align: middle;
 		}
 
-		.styled-table thead tr {
-			background-color: #45C0EC;
+		table thead tr {
+			background-color: var(--accent);
 			color: #ffffff;
 			font-size: 1.2em;
 			font-family: Oswald;
 			vertical-align: middle;
 		}
 
-		.styled-table th, .styled-table td {
+		table th, table td {
 			padding: 12px 15px;
 			vertical-align: middle;
 		}
 
-		.styled-table tbody tr {
+		table tbody tr {
 			font-size: 0.9em;
-			font-family: OpenSans;
 			vertical-align: middle;
 		}
 
-		.styled-table tbody tr:nth-of-type(even) {
+		table tbody tr:nth-of-type(even) {
 			background-color: #272727;
 			vertical-align: middle;
 		}
 
-		.styled-table tbody tr:last-of-type {
-			border-bottom: 2px solid #45C0EC;
+		table tbody tr:last-of-type {
+			border-bottom: 2px solid var(--accent);
 			vertical-align: middle;
 		}
 
-		.styled-table tbody tr.active-row {
+		table tbody tr.active-row {
 			font-weight: bold;
 			color: #ffffff;
 			vertical-align: middle;
@@ -167,10 +176,6 @@
 			vertical-align: middle !important;
 		}
 
-		.border-box {
-			box-sizing: border-box;
-		}
-
 		input[type=text], select, textarea {
 			background-color: #292A2B;
 			color: white;
@@ -183,7 +188,7 @@
 		}
 
 		input[type=submit] {
-			background-color: #45C0EC;
+			background-color: var(--accent);
 			color: white;
 			padding: 12px 20px;
 			border: none;
@@ -191,7 +196,7 @@
 		}
 
 		input[type=submit]:hover {
-			background-color: #4AB7FF;
+			background-color: var(--accent);
 		}
 
 		.container {

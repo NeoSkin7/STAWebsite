@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <title>Contact - Skinner Technology Archive</title>
-<link rel="shortcut icon" type="image/jpg" href="IMAGES\FAVICON.PNG" />
+<link rel="shortcut icon" type="image/jpg" href="IMAGES\FAVICON.PNG">
 <link rel="stylesheet" href="STYLESHEET.CSS">
 
 <head>
 	<h2>
-		<div class="header">
+		<header>
 			<img src="IMAGES\FAVICON.PNG" alt="Logo" width="75">
-		</div>
-		<div class="header">
+		</header>
+		<header>
 			<div>SKINNER TECHNOLOGY ARCHIVE</div>
 			<div>
 				<small>
-					<em style="color:#45C0EC">AN ARCHIVE OF THE PAST IN THE FUTURE.</em>
+					<em>AN ARCHIVE OF THE PAST IN THE FUTURE.</em>
 				</small>
 			</div>
-		</div>
+		</header>
 	</h2>
 	<nav>
 		<h4>
@@ -39,19 +39,19 @@
 		<a href="mailto:neo.ski@outlook.com">neo.ski@outlook.com</a>
 		or use the form below and we’ll get back to you as soon as possible.
 	</p>
-	<form method="post" name="ContactForm" action="FORM_PROCESSOR.PHP" class="container">
-		<label for="fname"><b>FIRST NAME</b></label><br />
-		<input type="text" id="fname" name="firstname" placeholder="Your name.." required><br />
-		<label for="lname"><b>LAST NAME</b></label><br />
-		<input type="text" id="lname" name="lastname" placeholder="Your last name.." required><br />
-		<label for="email"><b>EMAIL ADDRESS</b></label><br />
-		<input type="text" id="lname" name="email" placeholder="Your email address.." required><br />
-		<label for="subject"><b>MESSAGE</b></label><br />
-		<textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"
-			required></textarea><br />
+	<form action="FORM_PROCESSOR_NEW.PHP" method="POST" enctype=”multipart/form-data” class="container">
+		<label for="fname"><b>FIRST NAME</b></label><br>
+		<input type="text" id="fname" name="firstname" placeholder="Your name.." required><br>
+		<label for="lname"><b>LAST NAME</b></label><br>
+		<input type="text" id="lname" name="lastname" placeholder="Your last name.." required><br>
+		<label for="email"><b>EMAIL ADDRESS</b></label><br>
+		<input type="text" id="lname" name="email" placeholder="Your email address.." required><br>
+		<label for="message"><b>MESSAGE</b></label><br>
+		<textarea id="message" name="message" placeholder="Write something.." style="height:170px"
+			required></textarea><br>
 		<input type="submit" value="SUBMIT">
 	</form>
-	<br />
+	<br>
 	<footer>
 		<a href="https://discord.gg/FsaME8x">
 			<img src="IMAGES\DISCORD.PNG" alt="Discord" width="30">
