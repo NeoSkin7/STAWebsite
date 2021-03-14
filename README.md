@@ -35,8 +35,9 @@ To access the site, simply run `INDEX.HTML`.
 
 To report a vulnerability please email [neo.ski@outlook.com](mailto:neo.ski@outlook.com) directly.
 
+## Contributors
 
-## Current Contributors
+### Current Contributors
 
 * [@NeoSkin7](https://github.com/NeoSkin7/)
 * [@D-Plex](https://github.com/D-Plex)
