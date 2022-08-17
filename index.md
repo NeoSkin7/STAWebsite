@@ -2,7 +2,7 @@
 
 You can download the latest site version _[here](https://github.com/NeoSkin7/STAWebsite/releases/)_.
 
-Or view a live preview _[here](https://stawebsite.000webhostapp.com/INDEX.HTML)_.
+Or view a live preview _[here](https://skinner-tech-archive.netlify.app)_.
 
 ## How to Use
 
